@@ -4,13 +4,19 @@
 
 Este proyecto está orientado a la automatización de pruebas exploratorias y de funcionalidades de la plataforma Ghost. La meta es explorar el comportamiento del sistema, identificar defectos y documentarlos de manera estructurada en un sistema de gestión de incidencias, en este caso **GitHub Issues**.
 
-## Pruebas a Realizar
+## [Listado de Funcionalidades Identificadas](https://github.com/JUANES545/Ghost-JJ/wiki/Listado-de-funcionalidades)
 
-1. **Instalación de Ghost (versión 5.96)**: Verificamos que la aplicación se despliega correctamente en entornos locales.
-2. **Exploración de funcionalidades**: Se realizarán pruebas sobre las funcionalidades básicas como la creación de usuarios, publicaciones, y gestión de categorías.
-3. **Registro de incidencias**: Cualquier defecto encontrado durante las pruebas será reportado en GitHub usando el sistema de **Issues**.
-4. **Documentación de la interfaz gráfica (GUI)**: Se generarán modelos de GUI que describan las pantallas y transiciones dentro de la aplicación.
-5. **Modelo de Dominio**: Se creará un modelo de dominio para documentar las principales entidades y datos manejados por la plataforma.
+
+## [Inventario de Pruebas Exploratorias](https://uniandes-my.sharepoint.com/:x:/g/personal/je_mejiai1_uniandes_edu_co/Ed6LhggfOLhCsRQReX-bJu0BqewayURrzqXdY-lqqxBo4w?e=T98AsX)
+
+
+## [Modelos de GUI](https://www.figma.com/design/rnrnSV5Ya11qerKP1SeHGz/Untitled?node-id=0-1&t=NNQJdRs1qlzAg7oG-1)
+
+
+
+## [Modelo de Dominio]()
+
+
 
 ## Herramientas Utilizadas
 

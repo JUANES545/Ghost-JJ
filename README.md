@@ -13,7 +13,7 @@ Este proyecto está orientado a las pruebas exploratorias y de funcionalidades d
 ## [Modelos de GUI](https://www.figma.com/design/rnrnSV5Ya11qerKP1SeHGz/Untitled?node-id=0-1&t=NNQJdRs1qlzAg7oG-1)
 
 
-## [Modelo de Dominio]()
+## [Modelo de Dominio](https://uniandes-my.sharepoint.com/:b:/g/personal/je_mejiai1_uniandes_edu_co/EfEZyJW-0ppOuKQg0BtGHqQBMMdghPiTURVdWvXbT6pMbA?e=z1lPXk)
 
 
 

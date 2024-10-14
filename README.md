@@ -7,7 +7,7 @@ Este proyecto está orientado a las pruebas exploratorias y de funcionalidades d
 ## [Listado de Funcionalidades Identificadas](https://github.com/JUANES545/Ghost-JJ/wiki/Listado-de-funcionalidades)
 
 
-## [Inventario de Pruebas Exploratorias](https://uniandes-my.sharepoint.com/:x:/g/personal/je_mejiai1_uniandes_edu_co/Ed6LhggfOLhCsRQReX-bJu0BqewayURrzqXdY-lqqxBo4w?e=T98AsX)
+## [Inventario de Pruebas Exploratorias](https://uniandes-my.sharepoint.com/:b:/g/personal/je_mejiai1_uniandes_edu_co/EXLU0TqyggVKjvC2vITM8-oBZrrChKpqufokL3B98KRv6A?e=VhOjTR)
 
 
 ## [Modelos de GUI](https://www.figma.com/design/rnrnSV5Ya11qerKP1SeHGz/Untitled?node-id=0-1&t=NNQJdRs1qlzAg7oG-1)
